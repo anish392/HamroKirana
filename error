@@ -1,0 +1,5 @@
+Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\vision\admin_area\edit_products.php on line 34
+
+
+
+Fatal error: Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where ip_address='::1'' at line 1 in C:\xampp\htdocs\vision\cart.php:169 Stack trace: #0 C:\xampp\htdocs\vision\cart.php(169): mysqli_query(Object(mysqli), 'update cart_det...') #1 {main} thrown in C:\xampp\htdocs\vision\cart.php on line 169

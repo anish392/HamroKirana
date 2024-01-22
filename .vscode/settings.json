@@ -1,0 +1,15 @@
+{
+  "editor.fontWeight": "normal",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}

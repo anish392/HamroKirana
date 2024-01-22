@@ -1,0 +1,11 @@
+ <tr>
+                <th>SN.</th>
+                <th>Amount Due</th>
+                <th>Total products</th>
+                <th>Invoice Number</th>
+                <th>Date</th>
+                <th>Complete/Incomplete</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody class='bg-secondary text-light'>
